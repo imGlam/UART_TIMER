@@ -210,6 +210,7 @@ void StartModulationMode();
 void StopModulationMode();
 void StartBlinkingMode(int);
 void StopBlinkingMode();
+void Wait20sMode();
 
 
 
