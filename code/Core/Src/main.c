@@ -213,6 +213,7 @@ void StartBlinkingMode(int);
 void StopBlinkingMode();
 void Wait20sMode();
 void Wait10sMode();
+void StopWaiting();
 
 
 /* USER CODE END 0 */
